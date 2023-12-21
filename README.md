@@ -11,9 +11,9 @@ Use
 
 
 <br />
-<div align="center">
+<div>
 
-  <h3 align="center">Install X11 novnc on Docker Based Containers</h3><br>
+  <h3>Install X11 novnc on Docker Based Containers</h3><br>
 
   <p>
     An awesome README template to jumpstart your projects!    ><br>
