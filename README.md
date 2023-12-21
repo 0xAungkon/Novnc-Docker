@@ -7,7 +7,8 @@
 cd novnc-docker ; <br>
 chmod +x ./web.sh;<br>
 ./web.sh;><br><br><br><br><br>
-    Regular Run: ./web.sh;><br>
+    Regular Run:<br> 
+./web.sh<br>
     <br><br><br>
 
     Default Password Is: 123456 (change command is ```vncpasswd```)  ><br>
