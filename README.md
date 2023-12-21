@@ -3,6 +3,11 @@
 <div>
   <h3>Install X11 novnc on Docker Based Containers</h3><br>
   <p>
+    Docker Command:
+      docker run -it --name gui debian ; 
+      
+    now go on ,
+
     First Time Run command: <br>
     git clone https://github.com/0xAungkon/novnc-docker; <br>
 cd novnc-docker ; <br>
