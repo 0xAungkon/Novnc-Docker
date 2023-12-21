@@ -14,12 +14,15 @@
   
   Regular Run:<br> 
     
-    ./web.sh<br>
+    ./web.sh
     
     
   
 
-  Default Password Is: 123456 (change command is "vncpasswd") ><br>
+  Default Password Is: 123456 
+  Password Change command is : 
+    
+    vncpasswd
     
   </p>
 </div>
