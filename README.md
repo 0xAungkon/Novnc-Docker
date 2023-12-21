@@ -5,10 +5,9 @@
   <p>
     Docker Command:
       docker run -it --name gui debian ; 
-      
-    now go on ,
 
-    First Time Run command: <br>
+
+    First Time Run command in linux shell: <br>
     git clone https://github.com/0xAungkon/novnc-docker; <br>
 cd novnc-docker ; <br>
 chmod +x ./web.sh;<br>
