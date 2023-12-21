@@ -7,7 +7,7 @@
     git clone https://github.com/0xAungkon/novnc-docker; <br>
 cd novnc-docker ; <br>
 chmod +x ./web.sh;<br>
-./web.sh;><br><br><br><br><br>
+./web.sh;<br><br><br><br><br>
     Regular Run:<br> 
 ./web.sh<br>
     <br><br><br>
