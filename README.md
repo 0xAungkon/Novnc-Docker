@@ -11,13 +11,13 @@
     
     git clone https://github.com/0xAungkon/novnc-docker; cd novnc-docker ; chmod +x ./web.sh; ./web.sh;
     
-  <br><br><br><br><br>
+  <br><br>
   Regular Run:<br> 
     
     ./web.sh<br>
     
     
-  <br><br><br>
+  <br><br>
 
   Default Password Is: 123456 (change command is "vncpasswd") ><br>
     
