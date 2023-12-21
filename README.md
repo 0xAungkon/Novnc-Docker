@@ -15,7 +15,7 @@ Use
 
   <h3 align="center">Install X11 novnc on Docker Based Containers</h3><br>
 
-  <p align="center">
+  <p>
     An awesome README template to jumpstart your projects!    ><br>
     First Time Run command: ```git clone https://github.com/0xAungkon/novnc-docker; cd novnc-docker ; chmod +x ./web.sh;./web.sh;```><br>
     Regular Run: ```./web.sh;```><br>
