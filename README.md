@@ -4,7 +4,7 @@
   <h3>Install X11 novnc on Docker Based Containers</h3><br>
   <p>
     Docker Command:
-      docker run -it --name gui debian ; 
+      `docker run -it --name gui debian ; `
 
 
     First Time Run command in linux shell: <br>
