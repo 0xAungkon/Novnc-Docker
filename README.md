@@ -19,7 +19,7 @@
     
   
 
-  Default Password Is: 123456 
+  Default Password Is: 123456 <br>
   Password Change command is : 
     
     vncpasswd
